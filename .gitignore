@@ -1,0 +1,8 @@
+# node_modules やビルド成果物
+poc/node_modules/
+poc/dist/
+
+# 一時ファイルや設定
+*.log
+*.env
+.vscode/
